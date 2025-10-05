@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Spoorthi<br><br>🤖 **Aspiring AI Engineer | Data Analytics Enthusiast**<br><br>* 🎓 Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Data Analytics**<br>* 💻 Skilled in **Python**, **SQL**, and **Scikit-learn**<br>* 📊 Experienced with **data cleaning, visualization, and predictive analytics** using **Pandas, NumPy, Matplotlib, and Seaborn**<br>* 🌱 Currently exploring **NLP, Computer Vision, and Business Intelligence tools (Power BI, Tableau)**<br>* 🤝 Open to collaborating on **AI-powered applications, data-driven projects, and open-source contributions**<br>* 📫 Reach me at: [spoorthirjayanna@gmail.com] | [https://www.linkedin.com/in/spoorthi-j-027068340/]<br><br>### 🚀 Tech Stack<br><br>* **Programming & ML:** Python | Scikit-learn<br>* **Data Analysis & Viz:** Pandas | NumPy | SQL | Power BI | Tableau | Excel<br>* **Cloud & Tools:** AWS | GitHub | Jupyter | Google Colab<br><br>✨ *I aim to uncover insights from data and build intelligent, scalable systems that create real-world impact.*<br>
+# Hi there 👋, I'm Spoorthi<br><br>🤖 **Aspiring AI Engineer | Data Analytics Enthusiast**<br><br>*  *I aim to uncover insights from data and build intelligent, scalable systems that create real-world impact.*<br>
 
 
 ## 🌐 Socials:
